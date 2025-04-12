@@ -1,0 +1,39 @@
+.about-section {
+    background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+    padding: 60px 700px;
+    margin-top: 50px;
+    border-radius: 0px;
+   
+    
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(8, 100px); 
+  }
+
+.about-title {
+    font-size: 52px;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+}
+
+.about-text {
+    font-size: 20px;
+    color: #34495e;
+    line-height: 1.8;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
